@@ -54,7 +54,7 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+╰─ ᝬ _Patuhi Rules Group Ya_  🗿🍺`
       }
 exports.leave = () =>{
 	return`
