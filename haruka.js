@@ -28,13 +28,13 @@ nocache('./command/case.js', module => console.log(`${module} is now updated!`))
 const starts = async (haruka = new WAConnection()) => {
     haruka.logger.level = 'warn'
     haruka.version = [2, 2143, 3]
-    haruka.browserDescription = [ '𝐟𝐢𝐫𝐚𝐚ʙᴏᴛ', 'Chrome', '3.0' ]
+    haruka.browserDescription = [ 'Haruka-Bot', 'Chrome', '3.0' ]
 	CFonts.say('Haruka', {
 		font: 'block',
     	color: ['#ff9c00'],
     	align: 'center',
 		})
-	CFonts.say(`Bot WhatsApp Created By 𝐟𝐢𝐫𝐚𝐚`, {
+	CFonts.say(`Bot WhatsApp Created By ZeeoneOfc`, {
 		font: 'console',
 		align: 'center',
 		gradient: ['red', 'magenta']
