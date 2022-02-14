@@ -11,7 +11,7 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Lu udah daftar 🛐`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -46,7 +46,7 @@ exports.wait = () =>{
 	return`⏳ Sedang di proses ~`
 	}
 exports.ok = () =>{
-	return` ✅ Oke done ~`
+	return` ✓ Oke done ~`
 	}
 exports.welcome = () =>{
 	return`Jangan Lupa Intro Ya~
@@ -54,7 +54,7 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  🗿🍺`
+╰─ ᝬ _Patuhi Rules Group Ya_  😌🍺`
       }
 exports.leave = () =>{
 	return`
@@ -65,64 +65,64 @@ exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
 
 ╭─⬣ *List Menu*
-│ • ${prefix}menu
-│ • ${prefix}help
-│ • ${prefix}haruka
+│ あ ${prefix}menu
+│ あ ${prefix}help
+│ あ ${prefix}haruka
 │
 ├ *Download*
-│ • ${prefix}play [query]
-│ • ${prefix}song [judul lagu]
-│ • ${prefix}pinterest [query]
-│ • ${prefix}ytmp3 [url]
-│ • ${prefix}ytmp4 [url]
-│ • ${prefix}tiktok [url]
-│ • ${prefix}tiktoknowm [url]
-│ • ${prefix}tiktokwm [url]
-│ • ${prefix}tiktokaudio [url]
-│ • ${prefix}soundcloud [url]
-│ • ${prefix}telesticker [url]
+│ あ ${prefix}play [query]
+│ あ ${prefix}song [judul lagu]
+│ あ ${prefix}pinterest [query]
+│ あ ${prefix}ytmp3 [url]
+│ あ ${prefix}ytmp4 [url]
+│ あ ${prefix}tiktok [url]
+│ あ ${prefix}tiktoknowm [url]
+│ あ ${prefix}tiktokwm [url]
+│ あ ${prefix}tiktokaudio [url]
+│ あ ${prefix}soundcloud [url]
+│ あ ${prefix}telesticker [url]
 │
 ├ *Convert*
-│ • ${prefix}stiker [video/image]
-│ • ${prefix}semoji 😎
-│ • ${prefix}smeme [text]
-│ • ${prefix}memegen [text|text2]
-│ • ${prefix}fast [video/vn]
-│ • ${prefix}tupai [video/vn]
-│ • ${prefix}vibra [video/vn]
-│ • ${prefix}robot [video/vn]
-│ • ${prefix}slow [video/vn]
-│ • ${prefix}bass [video/vn]
-│ • ${prefix}nightcore [video/vn]
+│ ✘ ${prefix}stiker [video/image]
+│ ✘ ${prefix}semoji 😎
+│ ✘ ${prefix}smeme [text]
+│ ✘ ${prefix}memegen [text|text2]
+│ ✘ ${prefix}fast [video/vn]
+│ ✘ ${prefix}tupai [video/vn]
+│ ✘ ${prefix}vibra [video/vn]
+│ ✘ ${prefix}robot [video/vn]
+│ ✘ ${prefix}slow [video/vn]
+│ ✘ ${prefix}bass [video/vn]
+│ ✘ ${prefix}nightcore [video/vn]
 │
 ├ *Education*
-│ • ${prefix}nuliskiri [text]
-│ • ${prefix}nuliskanan [text]
-│ • ${prefix}foliokiri [text]
-│ • ${prefix}foliokanan [text]
+│ ✿ ${prefix}nuliskiri [text]
+│ ✿ ${prefix}nuliskanan [text]
+│ ✿ ${prefix}foliokiri [text]
+│ ✿ ${prefix}foliokanan [text]
 │
 ├ *Game*
-│ • ${prefix}tebakgambar 
+│ ❕ ${prefix}tebakgambar 
 │
 ├ *Info*
-│ • ${prefix}owner
-│ • ${prefix}daftar
+│ 友 ${prefix}owner
+│ 友 ${prefix}daftar
 │
 ├ *Owner*
-│ • ${prefix}broadcast [text]
-│ • ${prefix}leave
-│ • >
-│ • $
-│ •  => 
+│ シ ${prefix}broadcast [text]
+│ シ ${prefix}leave
+│ シ >
+│ シ $
+│ シ  => 
 │
 ├ *Group*
-│ • ${prefix}antilink 1 / 0
-│ • ${prefix}hidetag [text]
-│ • ${prefix}linkgrup
-│ • ${prefix}tagall
-│ • ${prefix}kick @tag
-│ • ${prefix}setdesc [text] 
-│ • ${prefix}setname [text] 
+│ 友 ${prefix}antilink 1 / 0
+│ 友 ${prefix}hidetag [text]
+│ 友 ${prefix}linkgrup
+│ 友 ${prefix}tagall
+│ 友 ${prefix}kick @tag
+│ 友 ${prefix}setdesc [text] 
+│ 友 ${prefix}setname [text] 
 ╰─⬣
 `
 	}
