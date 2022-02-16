@@ -44,9 +44,9 @@ Click the deploy icon below !
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Haruka)
 
 ```bash
- > heroku/nodejs
- > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
- > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+ > Kang Recode : Firaa
+ > SC ORI Zeeone v:
+ > GUA RECODE DIKIT2 DI LOGO MENU NYA v:
 ```
 
 ## Termux
