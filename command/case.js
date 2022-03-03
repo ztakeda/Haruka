@@ -47,7 +47,7 @@ const speed = require('performance-now')
 const util = require('util')
 const yts = require( 'yt-search')
 const ytdl = require("ytdl-core")
-const zee = require('api-alphabot')
+const zee = require('xfarr-api')
 
 //library
 const { simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('../lib/functions')
