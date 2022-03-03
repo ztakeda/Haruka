@@ -12,7 +12,6 @@
   },
   "author": "ZEEONE",
   "dependencies": {
-    "api-alphabot":"1.0.2",
     "@adiwajshing/baileys": "^3.5.3", 
     "awesome-phonenumber": "^2.64.0",
     "async": "^3.2.0",
@@ -35,6 +34,7 @@
     "request": "^2.81.0",
     "spinnies": "^0.5.1",
     "util": "^0.12.4",
+    "xfarr-api":"^1.0.2",
     "ytdl-core":"^4.10.0",
     "yt-search": "^2.8.0"
   },
